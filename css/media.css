@@ -14,11 +14,19 @@
 
     .header-search{
         border: none;
+        padding: 0px 0px;
+        margin-left: 10px;
     }
 
     .header-search input{
         display: none;
     }
 
-    
+    .header-navigation{
+
+    }
+
+    .border-navi{
+        
+    }
 }
