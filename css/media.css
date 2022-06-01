@@ -23,10 +23,17 @@
     }
 
     .header-navigation{
-
+        gap: 10px;
     }
 
     .border-navi{
-        
+        border: none;
+        width: 50px;
+        /* gap: 10px; */
     }
+
+    .border-navi a span{
+        display: none;
+    }
+
 }
