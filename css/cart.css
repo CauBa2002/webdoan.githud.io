@@ -226,7 +226,7 @@
 }
 .brand-shop-product-image-name{
     flex: 2;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     text-align: left;
     color: var(--text-color);
     margin: 0 0 0 10px;
@@ -242,7 +242,7 @@
 .brand-shop-product-type{
     flex: 1;
     padding-left: 20px;
-    font-size: 1.8rem;
+    font-size: 1.2rem;
 }
 .brand-shop-product-Operation{
     color: var(--primary-color-text);
@@ -259,8 +259,13 @@
     bottom: 0;
     right: 0;
     left: 0;
-
 }
+
+.brand-shop-product-unit-price{
+    font-size: 1.2rem;
+}
+
+
 /* Contact product */
 .home__product-contact-category{
     background-color: var(--primary-color-text);

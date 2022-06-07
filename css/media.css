@@ -1,39 +1,27 @@
 @media screen and (max-width: 414px) {
-    .header-container{
-        padding-left: 5px;
-    }
 
-    .header-logo{
-        /* width: 50px; */
-        padding-left: 10px;
-    }
 
-    .header-logo img{
+    /* ------------- Carts ------------- */
+    .logo{
         width: 50px;
     }
 
-    .header-search{
-        border: none;
-        padding: 0px 0px;
-        margin-left: 10px;
+    .brand-shop-product-name{
+        font-size: 15px;
     }
 
-    .header-search input{
-        display: none;
+    .navbar-toggler{
+        width: 30px;
+        height: 30px;
     }
 
-    .header-navigation{
-        gap: 10px;
+    .navbar-toggler-icon{
+        width: 15px;
+        height: 15px;
+        
     }
 
-    .border-navi{
-        border: none;
-        width: 50px;
-        /* gap: 10px; */
+    .brand-shop-product-type{
+        font-size: 12px;
     }
-
-    .border-navi a span{
-        display: none;
-    }
-
 }
