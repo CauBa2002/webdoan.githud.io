@@ -406,7 +406,7 @@ div h4 {
 
 /* ------------------- Contact ------------------- */
 
-img {
+.img_contact {
     width: 30%;
     height: 100%;
     object-fit: cover;
